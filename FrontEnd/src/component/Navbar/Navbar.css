@@ -3,10 +3,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: fixed;
-  top: 0;
-  width: 80%;
-  z-index: 1;
 }
 .navbar .logo {
   width: 150px;
